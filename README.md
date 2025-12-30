@@ -20,7 +20,7 @@ In this work, we introduce the **Web World Model (WWM)**, a middle ground where 
 ```bibtex
 @article{feng2025web,
    title   = {Web World Models},
-   author    = {Feng, Jichen and Zhang, Chenggong and Zhang, Yifan and Lu, Yifu and Liu, Shilong and Wang, Mengdi},
+   author    = {Feng, Jichen and Zhang, Yifan and Zhang, Chenggong and Lu, Yifu and Liu, Shilong and Wang, Mengdi},
    journal = {arXiv preprint arXiv:2512.23676},
    year    = {2025}
 }
