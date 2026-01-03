@@ -8,9 +8,6 @@ A browser-based roguelike deckbuilder inspired by *Slay the Spire*, where **Gemi
 - A **“Wish”** input in the reward screen that turns a free-form player prompt into a **single custom card**
 
 The game runs entirely in the browser. If you don’t provide an API key, it falls back to built-in mock content so the game is still playable.
-
-View the exported app in AI Studio (if applicable): https://ai.studio/apps/drive/1mp8BJip4lMDfffTaRxBqQYFqtbUYdR44
-
 ## How It Works (Neural + Symbolic)
 
 - **Neural component (Gemini)** acts as a constrained “designer”: it returns **JSON** shaped by a schema (card name/type/rarity/cost/stats + `specialEffect` tokens; relic `effectType` tokens).
