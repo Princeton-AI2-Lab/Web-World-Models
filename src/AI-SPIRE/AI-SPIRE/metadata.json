@@ -1,5 +1,0 @@
-{
-  "name": "AI Spire Roguelike",
-  "description": "A Slay-the-Spire inspired roguelike deck builder where card rewards are generated in real-time by Gemini while you battle.",
-  "requestFramePermissions": []
-}

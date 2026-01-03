@@ -1,5 +1,0 @@
-/* Minimal placeholder so Vite finds the referenced stylesheet.
-   Primary styles come from the Tailwind CDN loaded in index.html. */
-body {
-  margin: 0;
-}
